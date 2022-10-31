@@ -4,16 +4,18 @@
 1.git init
 
 2. Đăng nhập vào git bash.
-git config --global user.name “username”     
-git config --global user.name DangQuangThinh1999
+
+git config --global user.name “username”
 
 Thay "username"  = tên ở tài khoản github
+
+VD: git config --global user.name DangQuangThinh1999
 
 git config --global user.email “email@gmail.com”
 
 Thay "email@gmail.com"  = gmail ở tài khoản github
 
-git config --global user.email quangthinh123qb@gmail.com
+VD: git config --global user.email quangthinh123qb@gmail.com
 
 git remove -v 
 

@@ -10,11 +10,13 @@ git config --global user.name DangQuangThinh1999
 Thay "username"  = tên ở tài khoản github
 
 git config --global user.email “email@gmail.com”
+
 Thay "email@gmail.com"  = gmail ở tài khoản github
 
 git config --global user.email quangthinh123qb@gmail.com
 
 git remove -v : xóa tất cả nhánh cũ
+
 2. thay đoạn mã vào 
 
 git remote add origin http://"đoạn mã"@github.com/DangQuangThinh1999/ReactJS-Fontend.git

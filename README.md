@@ -1,9 +1,9 @@
-# push-project-github
+# POST-PROJECTS-ON-GITHUB ( 6 steps)
 
 
-0.git init
+1.git init
 
-1. Đăng nhập vào git bash.
+2. Đăng nhập vào git bash.
 git config --global user.name “username”     
 git config --global user.name DangQuangThinh1999
 
@@ -17,17 +17,17 @@ git config --global user.email quangthinh123qb@gmail.com
 
 git remove -v 
 
-2. thay đoạn mã vào 
+3. thay đoạn mã vào 
 
 "đoạn mã" : Lấy ở phần lưu ý 
 
 git remote add origin http://"đoạn mã"@github.com/DangQuangThinh1999/ReactJS-Fontend.git
 
-3. git add .
+4. git add .
 
-4. git commit -m "init"
+5. git commit -m "init"
 
-5. git push origin master 
+6. git push origin master 
 
 
 GOOD LUCK !!! 

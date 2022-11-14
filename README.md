@@ -17,7 +17,7 @@ Thay "email@gmail.com"  = gmail ở tài khoản github
 
 VD: git config --global user.email quangthinh123qb@gmail.com
 
-git remove -v 
+git remote -v      
 
 3. thay đoạn mã vào 
 

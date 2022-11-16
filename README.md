@@ -31,6 +31,13 @@ git remote add origin http://"đoạn mã"@github.com/DangQuangThinh1999/ReactJS
 
 6. git push origin master 
 
+------------------------------------------------
+EEROR: remote: Permission to samrao2/manager-4.git denied to samrao1.
+
+fatal: unable to access 'https://github.com/samrao2/manager-4.git/': The requested URL returned error: 403
+
+Fix: delete token ở phần Lưu ý , rồi bấm vào gregenerate new token classic , bấm dấu tích hết trừ cái mục đầu , xong chọn expiration date, bấm lưu  
+
 
 GOOD LUCK !!! 
 --------------------------------------------------------------------------------------------------------------------

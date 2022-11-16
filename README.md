@@ -38,6 +38,10 @@ fatal: unable to access 'https://github.com/samrao2/manager-4.git/': The request
 
 Fix: delete token ở phần Lưu ý , rồi bấm vào gregenerate new token classic , bấm dấu tích hết trừ cái mục đầu , xong chọn expiration date, bấm lưu  
 
+----------------------------------------------
+Web deploy product github : https://app.netlify.com/
+
+youtube hướng dẫn push code web: https://www.youtube.com/watch?v=2oVG8ulYVCw
 
 GOOD LUCK !!! 
 --------------------------------------------------------------------------------------------------------------------

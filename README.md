@@ -50,8 +50,8 @@ GOOD LUCK !!!
 LƯU Ý: MÃ LẤY Ở settings -> developer settings -> Personal access tokens -> Tokens(classic) , xong bấm vào This token has no expiration date. (biểu tượng tam giác chấm than) -> chọn 30days -> rồi bấm regenerate token 
 
 
-NOTE----
-khi mà lỡ commit ở nhánh khác mà chưa push origin
+-------------------------------------------------NOTE--------------------------------------------------------------
+1. khi mà lỡ commit ở nhánh khác mà chưa push origin thì
 git reset --soft HEAD~1
 
 
